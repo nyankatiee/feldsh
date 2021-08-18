@@ -1,0 +1,36 @@
+
+body{
+	background-image:url(feldsh.jpeg);
+	background-size:3500px;
+	background-repeat:no-repeat;
+	position:relative;
+
+}
+.GAY{
+	font-size:30px;
+	text-decoration:unset;
+	text-align:center;
+	font-style:italic;
+	margin-left:44px;
+
+}
+.feldsh{
+    font-size:77px;
+	text-align:center;
+	font-style:italic;
+	margin-left:68px;
+	box-shadow:0 0 20px blue;
+}
+.GAY:hover{
+     color:white;
+}
+.t{
+     top:0;
+     left:0;
+     position:fixed;
+}
+.y{
+     top:0;
+     right:0;
+     position:fixed;
+}
